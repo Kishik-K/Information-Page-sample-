@@ -8,7 +8,7 @@ This project transforms traditional documentation into a visually refined, SaaS-
 
 ## 🚀 Live Demo
 
-🔗 https://YOUR_USERNAME.github.io/python-documentation/
+🔗 https://kishik-k.github.io/Information-Page-sample-/
 
 ---
 
