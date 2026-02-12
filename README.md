@@ -35,3 +35,41 @@ This project transforms traditional documentation into a visually refined, SaaS-
 
 ## 📁 Project Structure
 
+python-documentation/
+│
+├── index.html
+├── styles.css
+└── README.md
+
+
+---
+
+## 🎯 Purpose
+
+This project was created to:
+
+- Practice modern UI design principles
+- Improve CSS layout structuring
+- Explore asymmetrical grid systems
+- Build portfolio-ready frontend work
+
+---
+
+## 📌 Future Improvements
+
+- Add scroll-triggered animations
+- Add theme auto-detection
+- Add interactive FAQ accordion
+- Improve accessibility support
+
+---
+
+## 👤 Author
+
+GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## 📜 License
+
+This project is open source and available under the MIT License.
